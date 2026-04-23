@@ -1,0 +1,7 @@
+{
+    "load_time_sec": 2.5019495487213135,
+    "train_time_sec": 2.7617669105529785,
+    "best_iteration": 1,
+    "auc": 0.9366858483686101,
+    "inference_1_latency_ms": 1.0285377502441406
+}
